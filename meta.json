@@ -7,8 +7,17 @@
   "license": "MIT",
   "web": "https://github.com/nimious/io-sixense",
   "refs": [
-    "fatal: unable to access 'https://github.com/nimious/io-sixense.git/': Could not resolve host: github.com",
+    "refs/heads/master",
     ""
   ],
-  "heads": []
+  "heads": [
+    {
+      "desc": "Obsolete - please use sixense instead!",
+      "license": "MIT",
+      "name": "io-sixense",
+      "ref": "refs/heads/master",
+      "url": "https://github.com/nimious/io-sixense.git",
+      "version": "master"
+    }
+  ]
 }
