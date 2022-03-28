@@ -11,7 +11,6 @@
   inputs.src-sixense-master.ref   = "refs/heads/master";
   inputs.src-sixense-master.owner = "nimious";
   inputs.src-sixense-master.repo  = "io-sixense";
-  inputs.src-sixense-master.dir   = "";
   inputs.src-sixense-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
